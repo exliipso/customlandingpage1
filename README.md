@@ -36,7 +36,7 @@ The project is structured to follow a modular approach, with each section indepe
 
 ## Live Demo
 
-Visit the live demo [here](https://unique-daffodil-4cffde.netlify.app/) to see it in action.
+Visit the live demo [here](https://customlandingpage1.netlify.app/) to see it in action.
 
 ## License
 
