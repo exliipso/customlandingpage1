@@ -34,7 +34,9 @@ The project is structured to follow a modular approach, with each section indepe
 - **Interactive Elements**: Subtle hover effects and scroll-triggered animations to enhance user experience.
 - **Performance Optimized**: Focused on minimal loading times through optimized images and streamlined code.
 
+## Live Demo
 
+Visit the live demo [here](https://unique-daffodil-4cffde.netlify.app/) to see it in action.
 
 ## License
 
