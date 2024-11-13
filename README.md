@@ -39,7 +39,3 @@ The project is structured to follow a modular approach, with each section indepe
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-This README highlights your motivations and approach, giving a potential viewer clear insight into your skills and what they can expect from your work!
